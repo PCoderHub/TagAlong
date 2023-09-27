@@ -1,0 +1,7 @@
+node_modules
+.vscode
+.prettierrc.json
+.env.local
+.env
+package-lock.json
+coverage
